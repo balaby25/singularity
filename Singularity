@@ -10,4 +10,4 @@ From: oracle/oraclelinux:latest
  
    echo "Here we are installing software and other dependencies for the container!"
    mkdir -p /home_singularity/balakcha
-   echo "hi Vigna vinayaka !"
+   echo "hi Vigna vinayaka , mooshika vahana!"
